@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6586LU4394.com.example.unilinkproject",
+                "paths": [
+                    "/promos/*"
+                ]
+            }
+        ]
+    }
+}
