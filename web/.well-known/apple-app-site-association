@@ -1,11 +1,11 @@
 {
     "applinks": {
+        "apps": [],
         "details": [
             {
                 "appID": "6586LU4394.com.deeplinkflutter.app",
                 "paths": [
-                    "/path/*",
-                    "/detail/*"
+                    "/*"
                 ]
             }
         ]
